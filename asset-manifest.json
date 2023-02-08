@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/e-com/static/css/main.ce5ed359.css",
+    "main.js": "/e-com/static/js/main.c3439631.js",
+    "index.html": "/e-com/index.html",
+    "main.ce5ed359.css.map": "/e-com/static/css/main.ce5ed359.css.map",
+    "main.c3439631.js.map": "/e-com/static/js/main.c3439631.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce5ed359.css",
+    "static/js/main.c3439631.js"
+  ]
+}
